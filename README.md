@@ -25,7 +25,7 @@ Installation
 To install the simulator package, clone the repo with the simulator and starter code into your catkin workspace:
 
 cd ~/catkin_ws/src
-git clone https://github.com/f1tenth/f110_ros.git
+git clone https://github.com/caokaifa/car-simulator-environment.git
 
 Then run catkin_make to build it:
 
@@ -147,3 +147,7 @@ joy_angle_axis: The index of the joystick axis used to control the angle of the 
 joy_button_idx: The index of the joystick button used to turn on/off joystick driving.
 C++ API
 Implementation Details
+
+
+运行结果：roslaunch f110_simulator simulator.launch
+file:///home/robert/Pictures/Screenshot%20from%202021-10-22%2023-41-42.png![image](https://user-images.githubusercontent.com/21233498/138553444-2d4552ad-0443-4f38-8190-f8e09805eff9.png)
