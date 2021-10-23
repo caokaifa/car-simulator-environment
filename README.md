@@ -25,6 +25,8 @@ Installation
 To install the simulator package, clone the repo with the simulator and starter code into your catkin workspace:
 
 cd ~/catkin_ws/src
+
+
 git clone https://github.com/caokaifa/car-simulator-environment.git
 
 Then run catkin_make to build it:
@@ -150,4 +152,7 @@ Implementation Details
 
 
 运行结果：roslaunch f110_simulator simulator.launch
+
+
+
 file:///home/robert/Pictures/Screenshot%20from%202021-10-22%2023-41-42.png![image](https://user-images.githubusercontent.com/21233498/138553444-2d4552ad-0443-4f38-8190-f8e09805eff9.png)
